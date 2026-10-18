@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://flyingdragonstudio.github.io/sitemap.xml
